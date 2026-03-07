@@ -1,0 +1,23 @@
+what is programme ?
+algorithm
+Flowcharts & Logic Flow
+Data and Variables
+Basic Logic (Boolean Thinking)
+Control Flow
+Problem Solving Mindset
+Debugging Concept
+Good Coding Habits to teach
+        Clean structure
+        Meaningful variable names
+        Comments
+        Small programs first
+
+Programming principles-
+    DRY — “Don’t Repeat Yourself”
+    KISS — “Keep It Simple, Stupid”
+    YAGNI — “You Aren’t Gonna Need It”
+    Single Responsibility Principle (SRP)
+    Readability Over Cleverness
+    Consistency
+
+All of these to teach
