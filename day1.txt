@@ -1,0 +1,11 @@
+topics that i tought-
+
+ipv4 & ipv6
+explain dns server
+html basics working
+character set
+unicode
+ascii
+how computers store character
+number system- binary, hexadecimal, decimal
+digital data units - kib vs kb ...
